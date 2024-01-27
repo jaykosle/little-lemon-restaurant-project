@@ -1,4 +1,7 @@
 import './App.css';
+import React from 'react';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import BookingPage from './BookingPage';
 import Header from './components/Header';
 import Nav from './components/Nav';
 import Main from './components/Main';
