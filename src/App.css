@@ -63,7 +63,7 @@ Link:link {
 }
 
 .action-button:hover {
-  background-color: #495e57;
+  background-color: #d9e68c;
   color: #eeeeee;
   border-style: solid;
   border-width: 1px;
@@ -111,7 +111,7 @@ Link:link {
 
 /* CALL TO ACTION */
 .call-to-action {
-  background-color: #495e57;
+  background-color: #185b38;
   color: white;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -294,7 +294,7 @@ Link:link {
 /* FOOTER STYLING */
 footer {
   min-height: 13rem;
-  background-color: #495e57;
+  background-color: #185b38;
   color: #ffffff;
   padding-bottom: 1rem;
   margin-top: -1.4rem;
@@ -363,7 +363,7 @@ footer > menu {
 }
 
 .reserve-header-text {
-  background-color: #495e57;
+  background-color: #16c645;
   padding: 0 3rem 0 3rem;
   position: absolute;
   top: 50%;

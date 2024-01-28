@@ -15,7 +15,7 @@ export default function Footer() {
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
             <a
-              href={require("../assets/menu.webp")}
+              href={require("../assets/menu.avif")}
               target="_blank"
               rel="noreferrer"
             >
@@ -30,17 +30,17 @@ export default function Footer() {
         <li>
           <h1 className="footer-header">Contact</h1>
           <ul className="footer-links">
-            <li>2395 Maldove Way,</li>
-            <li>Chicago Illinois</li>
+            <li>1234 Lorem street,</li>
+            <li>Chicago </li>
             <br></br>
-            <li>(629)-243-6827</li>
+            <li>999-000-222</li>
             <br></br>
             <a
-              href="mailto: info@littlelemon.com"
+              href="mailto: contact@littlelemon.com"
               target="_blank"
               rel="noreferrer"
             >
-              info@littlelemon.com
+              contact@littlelemon.com
             </a>
           </ul>
         </li>
@@ -66,7 +66,7 @@ export default function Footer() {
               target="_blank"
               rel="noreferrer"
             >
-              Join us!
+              follow us now!
             </a>
           </ul>
         </li>

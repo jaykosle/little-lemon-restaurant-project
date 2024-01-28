@@ -2,12 +2,11 @@ export default function About() {
     return (
         <article className="about-us">
             <section className="hero-text">
-                <h1>Little Lemon</h1>
+                <h1>Little Lemon Restaurant</h1>
                 <h2>Chicago</h2>
-                <p className="about-subtext">Little Lemon opened in 1995 by two Italian brothers, Adrian and Mario. 
-                Despite the city's diversity, the two brothers recognized the lack of Mediterranean cuisine in Chicago, 
-                and were inspired to bring the flavors of their hometown in Italy to the people of Chicago. The two brothers 
-                continue to oversee the Little Lemon restaurant, nearly thirty years later.</p>
+                <p className="about-subtext">Welcome to Little Lemon Restaurant
+                At Little Lemon Restaurant, we believe that every meal should be a delightful journey, where flavors dance on your palate and memories are created with every bite. Nestled in the heart of Chicago, our charming restaurant offers a cozy ambiance and a warm welcome to all our guests.
+                Founded in 2015, Little Lemon Restaurant began as a dream to share our passion for exquisite cuisine with the world. With a commitment to using fresh, locally-sourced ingredients and crafting each dish with love and creativity, we quickly gained recognition for our unique flavors and dedication to culinary excellence.</p>
             </section>
 
             <section className="double-image">
