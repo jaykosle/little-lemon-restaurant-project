@@ -438,11 +438,13 @@ footer > menu {
   }
 
   .specials-cards {
-    display: none;
+    display: grid; /* show the cards */
+    grid-template-columns: 1fr; /* stack them vertically */
+    grid-gap: 1rem;
   }
 
   .specials-carousel {
-    display: block;
+    display: none;
   }
 
   .menu-card {
